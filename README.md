@@ -14,7 +14,7 @@
 
 # httpCodes.js
 
-Useful for checking what the response code means in your crud before it get muteted through .json().  
+Useful for checking what the response code means in your crud before it get mutated through .json().  
 Works with all fetch methods as it only correlates the status code as a key and returns the value from the httpCodes object.
 
 - Example:
