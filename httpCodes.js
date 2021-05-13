@@ -1,3 +1,5 @@
+// Quickly get brief information about the given http code by accessing them with httpCodes[num] or httpCodes["num"]
+
 httpCodes = {
     // 1xx - 4 Entries
     100: {
