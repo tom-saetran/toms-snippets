@@ -14,8 +14,8 @@
 
 # httpCodes.js
 
-Useful for checking what the response code means in your crud before it get mutated through .json().  
-Works with all fetch methods as it only correlates the status code as a key and returns the value from the httpCodes object.
+Useful for checking what the response code means in your CRUDSs initial response.
+Works with any fetch method, as it only correlates the status code as a key and returns the value from the httpCodes object.
 
 - Example:
 
@@ -43,13 +43,7 @@ console.log(httpCodes[httpCode])
 
 CSS classes to extent bootstrap, written to feel like bootstrap.
 
-
-
-
-
-
-
-
-
-
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;
